@@ -1,0 +1,31 @@
+
+.nav_head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding:0px 30px;
+    padding-top:20px;
+}
+
+.logo{
+    width:220px;
+    height: 80px;
+    border-radius: 10px;
+}
+
+.link-list{
+    list-style-type: none;
+    margin-left: 0px;
+    display: flex;
+    align-items: center;
+    gap:35px;
+    font-family: "Roboto";
+    font-size: 17px;
+    color:#ffffff;
+    padding-bottom: 25px;
+}
+
+.lick-url{
+    color: #ffffff;
+    text-decoration: none;
+}

@@ -1,0 +1,95 @@
+.currentLocationContainer{
+    background-image: linear-gradient(to bottom,#35a6a4,#4035a6);
+    height: 70vh;
+    width: 70%;
+    align-self: center;
+    margin-top: 30px;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.username-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100vw;
+}
+
+.name-header{
+    font-family: "Roboto";
+    font-size: 45px;
+    text-align: center;
+    color: coral;
+}
+
+.name-input{
+    width: 25%;
+    height: 30px;
+    border-radius: 6px;
+    padding: 4px;
+    padding-left: 10px;
+    outline: none;
+    border-style: 1px solid blue;
+    background-color: transparent;
+    color:whitesmoke
+}
+
+
+.button{
+    width: 110px;
+    height: 35px;
+    margin-top: 20px;
+    border-radius: 8px;
+    background-color: #4035a6;
+    color: #ffffff;
+    outline: none;
+    border-style: none;
+    cursor: pointer;
+}
+
+
+.latitudeandlongitudeDetails{
+    display: flex;
+    justify-content: space-between;
+    width: 40%;
+    font-family: "Roboto";
+}
+
+.NameHead{
+    color:coral;
+    font-family: "Roboto";
+}
+
+.para{
+    color:#ffffff;
+    font-family: "Roboto";
+    font-size: 25px;
+}
+
+.spanElement{
+color:chartreuse;
+font-weight: bold;
+font-family: "Roboto";
+}
+
+.header{
+    font-size: 20px;
+    font-family: "Roboto";
+    color:#ffffff
+}
+
+.deg{
+    color:cadetblue;
+}
+
+.loader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 70vh;
+    width: 100%;
+}

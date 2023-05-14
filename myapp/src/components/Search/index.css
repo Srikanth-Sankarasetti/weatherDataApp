@@ -1,0 +1,65 @@
+.search-details{
+    display: flex;
+    justify-content: center;
+    width: 20%;
+    height: 30px;
+    margin-top: 30px;
+    border: 1px solid black;
+}
+
+.main-containe{
+    background-image: url("https://res.cloudinary.com/ducrzzdqj/image/upload/v1683985397/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring_g5oceo.jpg");
+    background-size: cover;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center
+}
+
+.search{
+    width: 85%;
+    outline: none;
+    border-style: none;
+    background-color: transparent;
+    color: #ffffff;
+    padding-left: 10px;
+}
+
+.search-button{
+    width: 15%;
+    outline: none;
+    border-style: none;
+    background-color: darkslategrey;
+    cursor: pointer;
+}
+
+
+.search-head{
+    font-size: 30px;
+    font-family: "Roboto";
+    color: gold;
+}
+
+.lat-and-log{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: cornsilk;
+}
+
+.search-para{
+    font-family: "Roboto";
+    font-size: 25px;
+    color: darksalmon;
+}
+
+.back-button{
+    margin-top: 20px;
+    background-color: brown;
+    outline: none;
+    border-style: none;
+    cursor: pointer;
+    color: #ffffff;
+    width: 70px;
+    height: 30px;
+    border-radius: 6px;
+}

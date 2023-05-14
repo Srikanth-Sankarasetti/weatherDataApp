@@ -1,0 +1,7 @@
+.main-container{
+    background-image: url("https://res.cloudinary.com/ducrzzdqj/image/upload/v1683985397/sunshine-clouds-sky-during-morning-background-blue-white-pastel-heaven-soft-focus-lens-flare-sunlight-abstract-blurred-cyan-gradient-peaceful-nature-open-view-out-windows-beautiful-summer-spring_g5oceo.jpg");
+    background-size: cover;
+    min-height: 100vh;
+   display: flex;
+   flex-direction: column;  
+}
